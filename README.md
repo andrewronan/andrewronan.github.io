@@ -4,7 +4,7 @@
 Email: ar750@cam.ac.uk
 
 ## PhD Thesis
-- [PhD Thesis](https://github.com/andrewronan/andrewronan.github.io/blob/c332b0ecd83462cb1c280580c6cab7ec15c7dd79/docs/assets/Nilpotent%20Groups%2C%20Spaces%20and%20G-Spaces%202.pdf)
+- [PhD Thesis](docs/assets/Nilpotent Groups, Spaces and G-Spaces 2.pdf)
 
 ## List of papers
 - [Completion preserves homotopy fibre squares of connected nilpotent spaces](https://nyjm.albany.edu/j/2024/30-20p.pdf) - New York J. Math. 30(2024) 502-512
