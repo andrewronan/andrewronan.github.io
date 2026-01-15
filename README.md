@@ -15,6 +15,6 @@ Email: ar750@cam.ac.uk
 ## List of papers
 - [Completion preserves homotopy fibre squares of connected nilpotent spaces](https://nyjm.albany.edu/j/2024/30-20p.pdf) - New York J. Math. 30(2024) 502-512
 - [Localisations and completions of nilpotent G-spaces](https://link.springer.com/article/10.1007/s40062-025-00371-y) - Journal of Homotopy and Related Structures 20(2025) 331-364
-- [The equivariant covering homotopy property](https://arxiv.org/pdf/2503.10249) - to appear in the Journal of Homotopy and Related Structures.
+- [The equivariant covering homotopy property](https://link.springer.com/article/10.1007/s40062-025-00392-7) - Journal of Homotopy and Related Structures (2025) ([arxiv](https://arxiv.org/pdf/2503.10249))
 - [A double coset formula for the genus of a nilpotent group](https://andrewronan.github.io/docs/restricted_genus_new.pdf)
 - [A criterion for an h-cofibration to be a q-cofibration](https://andrewronan.github.io/docs/Symmetrizable%20Cofibrations.pdf) - Includes a proof that an h-cofibration between q-cofibrant spaces is a q-cofibration. (Work in progress.)
